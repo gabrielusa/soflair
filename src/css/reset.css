@@ -35,6 +35,27 @@ margin-left: 7.5vw;
 margin-right: 7.5vw;
 }
 
+.rem08{
+    font-size: 0.8rem;
+}
+
+.rem07{
+    font-size: 0.7rem;
+}
+
+.rem06{
+    font-size: 0.6rem;
+}
+
+.rem12{
+    font-size: 1.2rem;
+}
+
+.rem14{
+    font-size: 1.4rem;
+}
+
+
 .cor-principal{
 color: var(--cor-principal);
 }
